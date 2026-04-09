@@ -1,5 +1,5 @@
 {
-    "base_url": "localhost:9000",
+    "base_url": "https://localhost:9000",
     "base_folder":"",
     "components_folder":"Views/components/",
     "controllers_folder":"Controllers/"
