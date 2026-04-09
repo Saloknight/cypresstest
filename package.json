@@ -1,0 +1,24 @@
+{
+  "name": "cypresstest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saloknight/cypresstest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Saloknight/cypresstest/issues"
+  },
+  "homepage": "https://github.com/Saloknight/cypresstest#readme",
+  "devDependencies": {
+    "cypress": "^15.13.1"
+  }
+}
